@@ -1,0 +1,1 @@
+    nohup node HttpServer.js --chainId=137 --port=7760  > logOutput.log 2>&1 &
